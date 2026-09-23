@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7955955b77bc484e030aaaa1",
+  "owner": "bfyahuuga",
+  "repo": "page-ca364457e0df1c48b0e257f1",
+  "title": "Afterwind",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ca364457e0df1c48b0e257f1",
+      "a": "Afterwind",
+      "b": "2027官方最新地址导航",
+      "entity": "Afterwind",
+      "brand": "Afterwind",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "07ae24c6db6391baa860f845ee2fb1c36519e4339e4be28d6eb14efa11e88b18",
+      "content": {
+        "primary_entity": "Afterwind",
+        "keyword1": "Afterwind",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，电脑、手机与路由器均可找到适配方案。",
+          "AI_CLIENTS_TITLE": "客户端下载",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑好套餐，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档选择，分别覆盖 3 台、5 台和 20 台设备同时在线，月流量从 100GB 到 1000GB 不等。旗舰版含 IPLC 专线与流媒体解锁，团队版面向多设备协作场景。按年付可节省部分费用，订阅后按客户端文档导入配置即可。",
+          "AI_FEATURES_INTRO": "结合设备数量、常用场景与月流量三条线索，就能快速定位适合的套餐档位。",
+          "AI_FEATURES_TITLE": "按需选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备同时在线，每月 100GB 流量，适合手机与电脑轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备，每月 300GB，IPLC 专线对游戏延迟优化更明显。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备，每月 1000GB，可定制路由并配专属客户经理。",
+          "AI_FEATURE_TITLE_1": "设备数量对应",
+          "AI_FEATURE_TITLE_2": "流量与场景",
+          "AI_FEATURE_TITLE_3": "多设备团队方案",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，三个步骤就能顺利开始使用 Afterwind。",
+          "AI_GUIDE_TITLE": "使用三步走",
+          "AI_HERO_INTRO": "Afterwind 面向需要稳定海外网络访问的用户，提供基础版、旗舰版与团队版三档套餐，覆盖从个人手机到多设备团队的加速需求。按流量与设备数量选择，订阅后参照对应客户端文档完成配置。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 到 1000GB 可选",
+          "AI_HIGHLIGHT_3": "按年付享更低的月均价格",
+          "AI_PLANS_INTRO": "基础版 15 元/月，旗舰版 35 元/月，团队版 85 元/月，按年付分别为 150 元、350 元和 850 元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "确认常用设备数量和每月大致流量，在基础版、旗舰版、团队版之间做出初步选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备数量、流量与节点线路的说明，确认是否满足日常使用场景。",
+          "AI_STEP_TEXT_3": "按所用设备的客户端文档导入订阅配置，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "Afterwind 套餐导航",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Afterwind 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看每月流量需求：轻度浏览选基础版 100GB，多设备流媒体选旗舰版 300GB，团队协同选团队版 1000GB，再结合设备数量确定。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量可升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150 相当于月均约 ¥12.5，旗舰版年付 ¥350 相当于月均约 ¥29.2，团队版年付 ¥850 相当于月均约 ¥70.8，均低于对应月付价格。",
+          "AI_FAQ_QUESTION_4": "哪些设备可以配置 Afterwind 订阅？",
+          "AI_FAQ_ANSWER_4": "可按设备系统选择对应客户端，在客户端中导入订阅信息。不同平台支持情况以客户端文档说明为准，建议先确认设备系统版本。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速和稳定传输优化，适合对延迟较敏感的场景。需要流媒体解锁或团队高带宽时，可进一步考虑团队版的 VIP 节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "danjiangkouai.cn",
+    "host": "danjiangkouai.cn"
+  },
+  "file_hashes": {
+    "index.html": "bc040cf1f5d5291f0b2e9410d5a6d1309d0a51ae8ce8570357414b2eee5cf386",
+    "sitemap.xml": "55d35edc091ce0056fd6922071373718ff38a50db8db7a1e7db602029a49d6bd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d26ac8fe12c4c27c5c3d2e2258ca7af6793e53ae65bc41440ab67ec33fe5027f",
+    "robots.txt": "6e42e77212cce74dc66351d4f798a75533d6641ac08d58c752e75c322e877e44",
+    "8414c62dadc7c851616d375a16f488fe.txt": "2c9cd10478f5a6f1a8d2c9b76c766dba3f445df76e992b7f689d519832fe977b"
+  },
+  "revision": "05a2a3c075cbad53abd21a985925f8201bd4da99f41bc2b1715b20b62d723882"
+}
